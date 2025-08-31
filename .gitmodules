@@ -1,6 +1,6 @@
 [submodule "pilupus-back"]
 	path = pilupus-back
-	url = ./pilupus-back/
+	url = https://github.com/pilupus/pilupus-back.git
 [submodule "pilupus-front"]
 	path = pilupus-front
-	url = ./pilupus-front/
+	url = https://github.com/pilupus/pilupus-front.git
