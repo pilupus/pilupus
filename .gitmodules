@@ -1,0 +1,6 @@
+[submodule "pilupus-back"]
+	path = pilupus-back
+	url = ./pilupus-back/
+[submodule "pilupus-front"]
+	path = pilupus-front
+	url = ./pilupus-front/
